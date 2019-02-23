@@ -1,6 +1,7 @@
 // TODO:
 // Create a parent class for file reads (ex: keter, euclid, etc...).
 // Make individual classes for each list type. 
+// Make a more realistic and secure login.
 
 #include "accounts.h"
 #include <deque>
