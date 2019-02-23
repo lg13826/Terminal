@@ -7,4 +7,6 @@ V0.2 BETA
 -General improvements
 -Project renamed to "Foundation Terminal"
 
-
+V0.21 BETA
+-Added Thaumiel List
+-Smoother font output
